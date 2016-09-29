@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{36BA2F7B-2DBB-8DB8-87D1-481ECD1DB674}") = "Hex Tutorial", "Assembly-CSharp.csproj", "{88E671C2-55D4-FEB0-DF18-9B850D626CC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E671C2-55D4-FEB0-DF18-9B850D626CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E671C2-55D4-FEB0-DF18-9B850D626CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E671C2-55D4-FEB0-DF18-9B850D626CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E671C2-55D4-FEB0-DF18-9B850D626CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

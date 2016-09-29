@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Unit.cs">
+    <Files>
+      <File FileName="Assets\TileMap.cs" Line="174" Column="1" />
+      <File FileName="Assets\Unit.cs" Line="44" Column="37" />
+      <File FileName="Assets\ClickableTile.cs" Line="13" Column="21" />
+      <File FileName="Assets\TileType.cs" Line="10" Column="32" />
+      <File FileName="Assets\Node.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

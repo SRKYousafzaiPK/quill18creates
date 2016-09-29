@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\TileMap Engine\Assets\Drill18\MapController.cs">
+    <Files>
+      <File FileName="..\TileMap Engine\Assets\Drill18\GUI\BuildButton.cs" Line="20" Column="5" />
+      <File FileName="..\TileMap Engine\Assets\Drill18\GUI\SetupBuildMenu.cs" Line="36" Column="5" />
+      <File FileName="..\TileMap Engine\Assets\Drill18\GUI\ToggleBuildMenu.cs" Line="24" Column="3" />
+      <File FileName="..\TileMap Engine\Assets\Drill18\MapController.cs" Line="181" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

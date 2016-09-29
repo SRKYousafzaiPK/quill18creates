@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\MultiFPS - ep 19\Assets\PlayerShooting.cs">
+    <Files>
+      <File FileName="..\MultiFPS - ep 19\Assets\Health.cs" Line="17" Column="3" />
+      <File FileName="..\MultiFPS - ep 19\Assets\PlayerShooting.cs" Line="74" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

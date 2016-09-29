@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Units\AstarAI.cs">
+    <Files>
+      <File FileName="Assets\AstarPathfindingProject\Modifiers\Modifiers.cs" Line="222" Column="1" />
+      <File FileName="Assets\Scripts\Units\AstarAI.cs" Line="38" Column="11" />
+      <File FileName="Assets\UnitSpawner.cs" Line="7" Column="9" />
+      <File FileName="Assets\UnitGoal.cs" Line="7" Column="25" />
+      <File FileName="Assets\AstarPathfindingProject\Modifiers\AlternativePath.cs" Line="28" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

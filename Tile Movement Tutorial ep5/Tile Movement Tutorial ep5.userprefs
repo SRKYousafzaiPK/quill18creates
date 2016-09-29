@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Tile Movement Tutorial ep6\Assets\Unit.cs">
+    <Files>
+      <File FileName="..\Tile Movement Tutorial ep6\Assets\Unit.cs" Line="16" Column="21" />
+      <File FileName="..\Tile Movement Tutorial ep6\Assets\TileMap.cs" Line="21" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\MultiFPS - Part 9\Assets\Health.cs">
+    <Files>
+      <File FileName="..\MultiFPS - Part 9\Assets\Health.cs" Line="18" Column="30" />
+      <File FileName="..\MultiFPS - Part 9\Assets\NetworkManager.cs" Line="28" Column="50" />
+      <File FileName="..\MultiFPS - Part 9\Assets\PlayerShooting.cs" Line="57" Column="11" />
+      <File FileName="..\MultiFPS - Part 9\Assets\NetworkCharacter.cs" Line="59" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

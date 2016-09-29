@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\UISelectionIndicator.cs">
+    <Files>
+      <File FileName="Assets\MouseManager.cs" Line="7" Column="1" />
+      <File FileName="Assets\Unit.cs" Line="16" Column="2" />
+      <File FileName="Assets\SelectionIndicator.cs" Line="26" Column="121" />
+      <File FileName="Assets\UISelectionIndicator.cs" Line="52" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
